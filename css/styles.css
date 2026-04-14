@@ -10970,3 +10970,12 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.experience-company-logo {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  border-radius: 8px;
+  border: 1px solid var(--bs-gray-300);
+  background-color: #fff;
+}
